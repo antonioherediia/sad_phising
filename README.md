@@ -1,6 +1,7 @@
 # Práctica Phising Antonio Heredia 2ºASIR
 
-# PREPARACIÓN Y PRUEBA PHISING
+
+## PREPARACIÓN Y PRUEBA PHISING
 
 Lo primero que tenemos que hacer es copiar el código fuente de la web a hacer el ataque y guardarlo como index.html.
 
