@@ -52,12 +52,13 @@ Una vez introduzcamos la lista nos pedirá el tipo de cuenta, yo le diré que es
 
 ![captura8](https://www.nuevomarketing.es/wp-content/uploads/2021/10/2.png)
 
+![captura8](https://www.nuevomarketing.es/wp-content/uploads/2021/10/Captura.png)
+
 
 Tenemos que tener activado la opcion Acceso de aplicaciones poco seguras en la seguridad del GMAIL de google sino no funcionará.
 
-Una vez introducido esos datos nos pedirá el asunto del correo que pondremos "Inicio de sesión sospechoso en Facebook" y también si queremos adjuntar un texto plano para el mensaje o un html. yo he preparado un pequeño html con el siguiente cuerpo:
+Una vez introducido esos datos nos pedirá el asunto del correo que pondremos "Inicio de sesión sospechoso en Facebook" y también si queremos adjuntar un texto plano para el mensaje o un html. yo he preparado un html para que el resultado sea el siguiente:
 
-![captura8](https://www.nuevomarketing.es/wp-content/uploads/2021/10/Captura.png)
 
 <body>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/2560px-Facebook_New_Logo_%282015%29.svg.png" width="426.6" height="160.3" />
