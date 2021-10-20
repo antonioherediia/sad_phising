@@ -84,3 +84,7 @@ Como podemos observar el correo electrónico a llegado perfectamente a la carpet
 
 
 ![demostracion](https://www.nuevomarketing.es/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-20-at-15.04.14.jpeg)
+
+Referencias:
+https://openwebinars.net/blog/hacking-tutorial-phishing-en-facebook/
+https://www.youtube.com/watch?v=4T9HzVI8zIs
