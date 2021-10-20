@@ -1,6 +1,12 @@
-# Información sobre las portadas de los vídeos
+# Práctica Phising Antonio Heredia 2ºASIR
 
-Las portadas deben incluir lo siguiente:
+Lo primero que tenemos que hacer es copiar el código fuente de la web a hacer el ataque y guardarlo como index.html
+- [captura1](https://pruebas.nuevomarketing.es/wp-content/uploads/2021/10/Captura.png)
+
+
+
+
+
 - Nombre y apellidos del estudiante
 - Nombre del módulo: Seguridad y Alta Disponibilidad
 - Fecha de creación
