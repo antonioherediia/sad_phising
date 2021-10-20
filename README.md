@@ -6,13 +6,14 @@ Lo primero que tenemos que hacer es copiar el código fuente de la web a hacer e
 
 Ahora vamos a editar ese index.html y tenemos que editar primero cambiamos el method lo cambiamos de POST a GET, ya que POST oculta los datos y GET no, por lo que lo necesitaremos para recopilar los datos de incio.
 
-Seguidamente editamos el cambio action que apunta a Facebook y lo tenemos que cambiar para que apunte a un archivo que vamos a crear llamado next.php.
-
-
 ![captura2](https://pruebas.nuevomarketing.es/wp-content/uploads/2021/10/2.png)&nbsp;
 
 
+
+Seguidamente editamos el cambio action que apunta a Facebook y lo tenemos que cambiar para que apunte a un archivo que vamos a crear llamado next.php.
 El código Script que vamos a usar es el siguiente:
+
+
 ![captura3](https://pruebas.nuevomarketing.es/wp-content/uploads/2021/10/4.png)
 
 
