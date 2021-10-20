@@ -53,3 +53,23 @@ Una vez introduzcamos la lista nos pedirá el tipo de cuenta, yo le diré que es
 ![captura8](https://www.nuevomarketing.es/wp-content/uploads/2021/10/2.png)
 
 
+Tenemos que tener activado la opcion Acceso de aplicaciones poco seguras en la seguridad del GMAIL de google sino no funcionará.
+
+Una vez introducido esos datos nos pedirá el asunto del correo que pondremos "Inicio de sesión sospechoso en Facebook" y también si queremos adjuntar un texto plano para el mensaje o un html. yo he preparado un pequeño html con el siguiente cuerpo:
+
+![captura8](https://www.nuevomarketing.es/wp-content/uploads/2021/10/Captura.png)
+
+<body>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/2560px-Facebook_New_Logo_%282015%29.svg.png" width="426.6" height="160.3" />
+
+<h2> Inicio de sesión sospechoso </h2>
+  <p>Hola, hemos detectado un inicio de sesión sospechoso procedente de Huelva, Andalucía, España. Si no has sido tu te recomendamos que cambies tu contraseña.</p>
+  <img src="https://huelvaya.es/wp-content/uploads/2019/10/google-maps-huelva.jpg"/>
+  <p> Accede a tu cuenta para ver los detalles del incio de sesión a través de este enlace: <a href="pruebas.nuevomarketing.es">Acceder a tu cuenta de Facebook</a>
+  <p> Si has sido tu quien a iniciado sesión desde esa localización ignora este mensaje.
+  <p> Buen día, el quipo de Facebook.
+
+
+</body>
+
+
