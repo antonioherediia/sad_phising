@@ -1,5 +1,7 @@
 # Práctica Phising Antonio Heredia 2ºASIR
 
+# PREPARACIÓN Y PRUEBA PHISING
+
 Lo primero que tenemos que hacer es copiar el código fuente de la web a hacer el ataque y guardarlo como index.html.
 
 ![captura1](https://pruebas.nuevomarketing.es/wp-content/uploads/2021/10/Captura.png)
@@ -40,18 +42,8 @@ Vemos que deja los datos de forma correcta.
 ![captura6](https://pruebas.nuevomarketing.es/wp-content/uploads/2021/10/7.png)
 
 
+## INGENIERIA SOCIAL Y ENVIOS DE EMAIL MASIVOS CON KALI
 
+Usaremos una herramienta ya instalada en Kali llamada SET social ingenieria tolkit
 
-
-
-
-- Nombre y apellidos del estudiante
-- Nombre del módulo: Seguridad y Alta Disponibilidad
-- Fecha de creación
-- Título del vídeo
-- [Logo de la Junta de Andalucía](https://github.com/jemole/SAD_2122/blob/main/IdentidadGrafica/Logo_CED_Junta.png)
-- [Logo del PdV](https://github.com/jemole/SAD_2122/blob/main/IdentidadGrafica/logo_pdv.png)
-
-Aquí se incluye una portada de ejemplo:
-![Ejemplo de portada de vídeo](https://github.com/jemole/SAD_2122/blob/main/IdentidadGrafica/Ejemplo_portada.png)
 
