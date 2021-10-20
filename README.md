@@ -44,6 +44,10 @@ Vemos que deja los datos de forma correcta.
 
 ## INGENIERIA SOCIAL Y ENVIOS DE EMAIL MASIVOS CON KALI
 
-Usaremos una herramienta ya instalada en Kali llamada SET social ingenieria tolkit
+Usaremos una herramienta ya instalada en Kali llamada SET social ingenieria tolkit, eligiremos la opción 1, luego la opción 5 envio masivo de emails, seguido de la opcion 2 Email- Atack mass mailer, seguidamente nos pedirá la tura de la lista de Email.
+
+Una vez introduzcamos la lista nos pedirá el tipo de cuenta, yo le diré que es GMAIL para la prueba, introducimos el correo y la contraseña.
+
+![captura7](https://www.nuevomarketing.es/wp-content/uploads/2021/10/2.png)
 
 
