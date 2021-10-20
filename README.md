@@ -24,15 +24,18 @@ Ahora subimos los tres archivos al servidor, el index, el next y el txt.
 Realizaré una prueba en mi propio servidor.
 
 Como vemos en el dominio de prueba accede perfectamente a el clon.
+
 ![captura4](https://pruebas.nuevomarketing.es/wp-content/uploads/2021/10/5.png)
 
 
 Introducimos un correo de prueba y una contraseña
+
 ![captura5](https://pruebas.nuevomarketing.es/wp-content/uploads/2021/10/6.png)
 
 
 Luego accedemos al archivo victima.txt (que fue el nombre que yo le puse en vez de yaeresmio.txt)
 Vemos que deja los datos de forma correcta.	
+
 ![captura6](https://pruebas.nuevomarketing.es/wp-content/uploads/2021/10/7.png)
 
 
