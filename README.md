@@ -80,3 +80,7 @@ Como vemos despues de introducir el codigo html, nos dice que los correos se han
 ![captura ](https://user-images.githubusercontent.com/92330266/138097997-d5b0abe7-0874-4170-87d8-1049a4a0824e.png)
 
 
+Como podemos observar el correo electrónico a llegado perfectamente a la carpeta principal.
+
+
+![demostracion](https://www.nuevomarketing.es/wp-content/uploads/2021/10/Captura.png)
