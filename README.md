@@ -5,12 +5,13 @@
 
 Lo primero que tenemos que hacer es copiar el código fuente de la web a hacer el ataque y guardarlo como index.html.
 
-![captura1](https://pruebas.nuevomarketing.es/wp-content/uploads/2021/10/Captura.png)
+![captura1](https://github.com/antonioherediia/sad_phising/blob/main/capturasPhissing/1.PNG)
 
 
 Ahora vamos a editar ese index.html y tenemos que editar primero cambiamos el method lo cambiamos de POST a GET, ya que POST oculta los datos y GET no, por lo que lo necesitaremos para recopilar los datos de incio.
 
-![captura2](https://pruebas.nuevomarketing.es/wp-content/uploads/2021/10/2.png)&nbsp;
+![captura2](https://github.com/antonioherediia/sad_phising/blob/main/capturasPhissing/2.PNG)&nbsp;
+![captura2](https://github.com/antonioherediia/sad_phising/blob/main/capturasPhissing/3.PNG)&nbsp;
 
 
 
@@ -29,18 +30,15 @@ Realizaré una prueba en mi propio servidor.
 
 Como vemos en el dominio de prueba accede perfectamente a el clon.
 
-![captura4](https://pruebas.nuevomarketing.es/wp-content/uploads/2021/10/5.png)
-
-
 Introducimos un correo de prueba y una contraseña
 
-![captura5](https://pruebas.nuevomarketing.es/wp-content/uploads/2021/10/6.png)
+![captura5](https://github.com/antonioherediia/sad_phising/blob/main/capturasPhissing/clon.PNG)
 
 
 Luego accedemos al archivo victima.txt (que fue el nombre que yo le puse en vez de yaeresmio.txt)
 Vemos que deja los datos de forma correcta.	
 
-![captura6](https://pruebas.nuevomarketing.es/wp-content/uploads/2021/10/7.png)
+![captura6](https://github.com/antonioherediia/sad_phising/blob/main/capturasPhissing/clon2.PNG)
 
 
 ## INGENIERIA SOCIAL Y ENVIOS DE EMAIL MASIVOS CON KALI
