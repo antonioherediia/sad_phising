@@ -19,7 +19,7 @@ Seguidamente editamos el cambio action que apunta a Facebook y lo tenemos que ca
 El código Script que vamos a usar es el siguiente:
 
 
-![captura3](https://pruebas.nuevomarketing.es/wp-content/uploads/2021/10/4.png)
+![captura3](https://github.com/antonioherediia/sad_phising/blob/main/php.PNG)
 
 
 Este código lo que hace redirige los datos de acceso a un archivo llamado yaeremio.txt y seguidamente lo manda de nuevo a Facebook.com para no levantar demasiadas sospechas.
